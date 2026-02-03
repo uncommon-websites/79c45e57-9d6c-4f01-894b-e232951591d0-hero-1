@@ -1,0 +1,2 @@
+# 79c45e57-9d6c-4f01-894b-e232951591d0-hero-1
+Hero section variant 1 for 79c45e57-9d6c-4f01-894b-e232951591d0
